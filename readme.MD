@@ -20,3 +20,5 @@ Adaptability: Projects often don't go as planned, so project managers must be ad
 Stages: The waterfall lifecycle consists of five stages: Initiating, Planning, Executing, Monitoring and Controlling, and Closing.
 Sequential Process: This approach works well when project goals and solutions are clearly defined, with each stage completed before moving to the next.
 Best Use Cases: Ideal for straightforward projects with little uncertainty, such as building construction, where the scope and deliverables are clear. 
+
+  
