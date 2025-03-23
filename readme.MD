@@ -17,8 +17,16 @@ Adaptability: Projects often don't go as planned, so project managers must be ad
 
 "The waterfall project management lifecycle":
 
+
 Stages: The waterfall lifecycle consists of five stages: Initiating, Planning, Executing, Monitoring and Controlling, and Closing.
 Sequential Process: This approach works well when project goals and solutions are clearly defined, with each stage completed before moving to the next.
 Best Use Cases: Ideal for straightforward projects with little uncertainty, such as building construction, where the scope and deliverables are clear. 
 
+
+"The agile project management lifecycle":
+
+Iterative Process: Agile projects use Sprints to deliver production-quality features at regular intervals, allowing for continuous improvement and customer feedback.
+Customer Involvement: The customer is more involved throughout the project, providing feedback that helps improve the overall solution.
+
+Agile Lifecycle Stages: The stages include envisioning (defining product vision and initial goals), speculating (planning and prioritizing features), exploring (building and delivering features), and adapting. 
   
