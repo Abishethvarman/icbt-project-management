@@ -29,4 +29,17 @@ Iterative Process: Agile projects use Sprints to deliver production-quality feat
 Customer Involvement: The customer is more involved throughout the project, providing feedback that helps improve the overall solution.
 
 Agile Lifecycle Stages: The stages include envisioning (defining product vision and initial goals), speculating (planning and prioritizing features), exploring (building and delivering features), and adapting. 
+
+Organization Structure 
+
+"How organizational culture affects projects":
+
+Organizational culture: It includes shared values, beliefs, assumptions, habits, and language that guide behaviors and decisions.
+Impact on projects: Projects aligned with the company's mission receive more attention and resources. Leadership styles and work environments also significantly influence project success.
+Rules vs. innovation: Some cultures prioritize strict adherence to rules, while others encourage innovation and new approaches.
+Change management: The approach to change management varies based on the organization's risk tolerance.
+Cultural differences: Team members from different cultural backgrounds may have varying reactions and communication styles, which need to be managed effectively.
+
+
+
   
